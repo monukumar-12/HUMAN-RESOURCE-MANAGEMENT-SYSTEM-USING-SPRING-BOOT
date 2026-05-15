@@ -130,8 +130,8 @@ H2 database confirmed to persist and retrieve data correctly
 
 Author
 
-Monu Mishra
+Monu Kumar
 
-6th Semester Student
+
 
 GitHub: monukumar-12
